@@ -21,7 +21,6 @@ else if (edad >= 30){
     else{
         document.write('Lo siento! Cuando tengas 3 o más hijos vuelve a intentarlo.');
     }
-    console.log (familia);
 }
 
 else if (edad >= 12 && edad < 18){
@@ -37,7 +36,6 @@ else if (edad >= 12 && edad < 18){
         document.write('Lo siento! Pero no puedes conseguir esta beca. Si sigues interesado podemos ayudarte a financiarlo.');
 
     }
-    console.log (genio);
 
 }
 else {
@@ -46,6 +44,5 @@ else {
 
 }
 
-console.log ("ciudad"+ciudad);
-console.log (edad);
+
 

@@ -1,3 +1,5 @@
+//este es el propio del ejercicio. 
+
 alert("Vamos a hacerte unas preguntas para averiguar por qué no arranca tu coche. Utiliza respuestas de si o no.");
 
 let home = prompt ('¿Estas cerca de tu casa?');
